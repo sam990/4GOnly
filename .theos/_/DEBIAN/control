@@ -1,0 +1,10 @@
+Package: com.sam990.4gonly
+Name: 4GOnly
+Depends: mobilesubstrate, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Description: Force iOS to use only 4G/LTE Network
+Maintainer: Sameer
+Author: Sameer
+Section: Control Center (Modules)
+Version: 0.0.1-12
+Installed-Size: 108
